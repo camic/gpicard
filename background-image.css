@@ -3,7 +3,7 @@
 */
 body {
   /* Location of the image */
-
+  background-image: url(images/genevieve.jpg);
 
   /* Image is centered vertically and horizontally at all times */
   background-position: center center;
@@ -21,17 +21,17 @@ body {
   /* Pick a solid background color that will be displayed while the background image is loading */
   background-color:#952249;
 
-  /* SHORTHAND CSS NOTATION
-   * background: url(background-photo.jpg) center center cover no-repeat fixed;
-   */
+  
+   
 }
 
 /* For mobile devices */
 @media only screen and (max-width: 767px) {
-  body {
+  body, h1 {
     /* The file size of this background image is 93% smaller
      * to improve page load speed on mobile internet connections */
-    background-image: url(images/spine3-small.jpg);
+    background-image: url(images/genevieve-small.jpg);
+    color: black;
   }
 }
 
