@@ -73,7 +73,7 @@ th, td
 a:link { color: royalblue; }
 a:visited { color: #9c254f; }
 a:focus { color: black; }
-a:hover { color: green; }
+a:hover { color: #96cf4a; }
 a:active { color: red; }
 
 /* -----------------------
@@ -90,7 +90,7 @@ Layout styles
 {
 	color: #fff;
 /*	background: #9c254f;  */
-	background: green;  
+	background: #96cf4a;  
 	padding: 1em 1.25em;
 }
 
@@ -98,7 +98,7 @@ Layout styles
 
 .nav-bar
 {
-	background: #000;
+	background: #9c254f;
 	padding: 0;
 }
 
@@ -117,7 +117,7 @@ Layout styles
 .footer
 {
 	color: #fff;
-	background: #000;
+	background: #9c254f;
 	padding: 1em 1.25em;
 }
 
@@ -159,7 +159,7 @@ Nav
 .nav a:hover
 {
 	color: white;
-	background-color: green;
+	background-color: #96cf4a;
 }
 
 .nav a:active 
@@ -197,7 +197,7 @@ Single styles
 .btn:hover
 {
 	color: #fff !important;
-	background-color: green;
+	background-color: #96cf4a;
 }
 
 .btn:focus
