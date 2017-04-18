@@ -14,7 +14,7 @@ body
 
 
 body.current a.current {
-	background-color: #9c254f;
+	background-color: #96cf4a;   
 }
 
 
@@ -89,7 +89,6 @@ Layout styles
 .header
 {
 	color: #fff;
-/*	background: #9c254f;  */
 	background: #96cf4a;  
 	padding: 1em 1.25em;
 }
