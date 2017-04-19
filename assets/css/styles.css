@@ -117,7 +117,7 @@ Layout styles
 {
 	color: #fff;
 	background: #9c254f;
-	padding: 1em 1.25em;
+	padding: 1em 1.25em;  
 }
 
 /* -----------------------
@@ -263,7 +263,10 @@ Wide styles
 		margin-bottom: 1em;
 	}
 
-	.footer { padding: 2em 3em; }
+	.footer { 
+		padding: 1.50em 2em;  
+		text-align: center;
+	}
 	
 	.nav li
 	{
